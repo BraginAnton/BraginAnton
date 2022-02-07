@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @BraginAnton
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, my name is Anton. 
+I'm 14 years old, and I have a lot of ideas in my head that I want to implement.
+I'm interested in creating games on unity, but at the moment I'm learning c++.
+In the future I plan to make my own programming language and release a lot of new games into the world.
+This profile will be used as my portfolio.
 
-<!---
-BraginAnton/BraginAnton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+That's all for now, but the future is not far off.
